@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#F6EFE0"/>
+  <rect x="82" y="82" width="1036" height="736" rx="36" fill="#FFFDF7" stroke="#184E77" stroke-width="12"/>
+  <rect x="142" y="142" width="456" height="252" rx="24" fill="#E9F3F1" stroke="#184E77" stroke-width="8"/>
+  <rect x="632" y="142" width="426" height="188" rx="24" fill="#F6E8D4" stroke="#184E77" stroke-width="8"/>
+  <rect x="632" y="364" width="426" height="164" rx="24" fill="#E9F3F1" stroke="#184E77" stroke-width="8"/>
+  <rect x="142" y="428" width="456" height="330" rx="24" fill="#F6E8D4" stroke="#184E77" stroke-width="8"/>
+  <line x1="598" y1="530" x2="632" y2="530" stroke="#184E77" stroke-width="8"/>
+  <line x1="598" y1="284" x2="632" y2="284" stroke="#184E77" stroke-width="8"/>
+  <line x1="370" y1="394" x2="370" y2="428" stroke="#184E77" stroke-width="8"/>
+  <line x1="812" y1="330" x2="812" y2="364" stroke="#184E77" stroke-width="8"/>
+  <text x="188" y="220" fill="#184E77" font-family="Arial, sans-serif" font-size="54" font-weight="700">Living / Dining</text>
+  <text x="684" y="226" fill="#184E77" font-family="Arial, sans-serif" font-size="48" font-weight="700">Bedroom</text>
+  <text x="684" y="446" fill="#184E77" font-family="Arial, sans-serif" font-size="42" font-weight="700">Kitchen / Bath</text>
+  <text x="188" y="600" fill="#184E77" font-family="Arial, sans-serif" font-size="52" font-weight="700">Layout Preview</text>
+  <text x="188" y="666" fill="#5C7187" font-family="Arial, sans-serif" font-size="32">Rights-cleared floor plan placeholder for the MVP.</text>
+</svg>

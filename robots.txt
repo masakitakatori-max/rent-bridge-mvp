@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://rent.mozule.co.jp
+Sitemap: https://rent.mozule.co.jp/sitemap.xml
+Sitemap: https://rent.mozule.co.jp/sitemap-areas.xml
+Sitemap: https://rent.mozule.co.jp/sitemap-themes.xml
+Sitemap: https://rent.mozule.co.jp/sitemap-content.xml
